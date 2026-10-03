@@ -17,3 +17,7 @@ Open the link in Safari → Share → "Add to Home Screen" → Add.
 2. Add credit under Billing (a ChatGPT Plus subscription does NOT include API access).
 3. In Doichi GPT → Einstellungen → paste the key → "Verbindung testen".
 Default models: `gpt-6.1-sol` (main) and `gpt-6-luna` (fast, very cheap). For the lowest cost, use `gpt-6-luna` in both fields.
+
+## Voices
+Einstellungen → Stimme: natural OpenAI voices (Marin, Cedar, Coral, Nova …) via `gpt-4o-mini-tts`, or the free device voice.
+Each sentence is generated once and then stored on the phone, so replays cost nothing.
